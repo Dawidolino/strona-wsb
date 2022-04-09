@@ -1,1 +1,1 @@
-opis projektu
+simple website for school class
